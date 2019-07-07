@@ -1,7 +1,11 @@
 body{
-  background-color: grey;
+  background-color: #e6e6ff;
   margin: 0;
   padding: 0;
+}
+#image{
+  height: 620px;
+  padding-right:70px;
 }
 nav ul {
 
@@ -26,7 +30,10 @@ nav ul li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+.info{
+  width: 96%;
 
+}
 nav ul li a:hover {
   background-color: #111;
 }
@@ -59,8 +66,12 @@ p{
   color:orange;
 }
 #image{
-  border-right: :30%
-
+  float: left;
+  margin: 20px;
+}
+#image img {
+  margin-right: 20px:
+  height:300px;
 }
 input[type=text], input[type=email]{
   width: 50%;
