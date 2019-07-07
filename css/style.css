@@ -31,7 +31,7 @@ nav ul li a {
   text-decoration: none;
 }
 .info{
-  width: 96%;
+  width: 75%;
 
 }
 nav ul li a:hover {
@@ -47,28 +47,17 @@ h1
   height:570px;
   width: 100%;
 }
-h2{
-  color:red;
+p{
+  color:black;
+
 }
 .projects{
-  color: purple;
-}
-.about{
-  color:green;
-}
-#about{
-  color:blue;
-}
-h3{
-  color:red;
-}
-p{
-  color:orange;
+  color: black;
 }
 #image{
   margin:20px;
   float: left;
-  border-radius:50%;
+  border-radius:90%;
 }
 #image img {
   margin-right:20px:
