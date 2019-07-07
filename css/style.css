@@ -66,12 +66,14 @@ p{
   color:orange;
 }
 #image{
+  margin:20px;
   float: left;
-  margin: 20px;
+  border-radius:50%;
 }
 #image img {
-  margin-right: 20px:
+  margin-right:20px:
   height:300px;
+  border-radius:50%;
 }
 input[type=text], input[type=email]{
   width: 50%;
