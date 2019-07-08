@@ -54,6 +54,9 @@ p{
 .projects{
   color: black;
 }
+#contact{
+  margin: 50px;
+}
 #image{
   margin:20px;
   float: left;
