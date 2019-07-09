@@ -1,6 +1,7 @@
 # Portfolio:
 
-This project was established July 2019 using HTML and CSS styling
+This project was established by me and it entails all information about me ,my education background ,
+job experience,and reasonsas to why I decided to join moringa.i used HTML language and did my styling with CSS.
 
 ## author:
 Rose Mogusu
@@ -13,4 +14,4 @@ Rose Mogusu
 * git atom.
 
 # licence
-* MIT licence copyright Rose
+* MIT licence copyright©2019

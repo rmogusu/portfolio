@@ -1,3 +1,6 @@
+*{
+  scroll-behavior: smooth;
+}
 body{
   background-color: #e6e6ff;
   margin: 0;
@@ -32,6 +35,7 @@ nav ul li a {
 }
 .info{
   width: 75%;
+  margin-bottom: 30px;
 
 }
 nav ul li a:hover {
@@ -51,8 +55,22 @@ p{
   color:black;
 
 }
-.projects{
+#projects{
+  background-color: gray;
   color: black;
+  padding:20px;
+  /* text-align: center; */
+}
+#projects h2{
+  text-align: center;
+  margin-left: -20px;
+}
+.flexbox {
+  display: flex;
+  justify-content: center;
+}
+.flexbox img{
+  padding: 40px;
 }
 #contact{
   margin: 50px;
@@ -63,7 +81,7 @@ p{
   border-radius:90%;
 }
 #image img {
-  margin-right:20px:
+  margin-right:20px;
   height:300px;
   border-radius:50%;
 }
