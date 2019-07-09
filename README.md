@@ -8,7 +8,7 @@ Rose Mogusu
 
 ## setup instruction
 * make sure you are in termination
-* git clone https://github.com/rmogusu/portfolio.git
+* git clone https://rmogusu.github.io/portfolio/
 * cd Desk© top
 * cd portfolio
 * git atom.
