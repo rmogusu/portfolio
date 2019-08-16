@@ -1,10 +1,12 @@
 *{
   scroll-behavior: smooth;
 }
+
 body{
   background-color: #e6e6ff;
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 #image{
   height: 620px;
@@ -59,6 +61,7 @@ p{
   background-color: gray;
   color: black;
   padding:20px;
+
   /* text-align: center; */
 }
 #projects h2{
@@ -72,20 +75,28 @@ p{
 .flexbox img{
   padding: 40px;
 }
+.row{
+  margin-top: 50px;
+}
+.likes{
+  margin-top:50px;
+
+}
 #contact{
   margin: 50px;
 }
 #image{
   margin:20px;
   float: left;
-  border-radius:90%;
+  border-radius:100%;
 }
+
 #image img {
   margin-right:20px;
   height:300px;
   border-radius:50%;
 }
-input[type=text], input[type=email]{
+/* input[type=text], input[type=email]{
   width: 50%;
   padding: 12px 20px;
   margin: 8px 0 0 100px;
@@ -112,4 +123,4 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #45a049;
-}
+} */
